@@ -28,7 +28,7 @@
 
 ### Tela de Cadastro de Produtos:
 <figure>
-  <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/276b139d-96b2-48b6-b741-ca3380f6230f">
+  <img src="https://github.com/gabizdini/SistemaPokemonCoffee/assets/128835174/276b139d-96b2-48b6-b741-ca3380f6230f">
 </figure>
 
 ### Tela de Busca de Produtos: 
