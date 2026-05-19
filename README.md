@@ -50,3 +50,5 @@
 <figure>
   <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/58da7332-37c7-448d-8fac-db94eac0a7e0">
 </figure>
+<br>
+<h4 align='center'>Projeto feito em 2024 :P</h2>
